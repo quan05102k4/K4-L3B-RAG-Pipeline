@@ -38,12 +38,16 @@ htmlcov/
 # Temp PDF conversion cache
 data/_tmp_pdf/
 
+# Vector store sinh ra bởi Task 4 (dựng lại bằng `python -m src.task4_chunking_indexing`)
+chroma_db/
+
 # Temp / cache
 .pytest_cache/
 *.tmp
 *.log
-pageindex_doc_ids.json
-pageindex_pdfs/
+# PDF render lại được từ data/standardized; doc_id gắn với tài khoản PageIndex
+# của từng người nên cũng không chia sẻ qua repo (Task 8 tự upload lại khi thiếu).
+data/pageindex/
 
 # Jupyter
 .ipynb_checkpoints/
