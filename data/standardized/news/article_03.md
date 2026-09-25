@@ -1,0 +1,47 @@
+# Cách tính tiền lương làm ca đêm và thêm giờ
+
+- **Nguồn:** https://baochinhphu.vn/cach-tinh-tien-luong-lam-ca-dem-va-them-gio-102260874.htm
+- **Trang nguồn:** Báo Điện tử Chính phủ
+- **Ngày đăng:** 2019-09-05T07:02:00+07:00
+- **Ngày thu thập:** 2026-09-25
+- **File gốc:** data/landing/news/article_03.json
+
+---
+(Chinhphu.vn) – Bà Phạm Thị Thêu (Hà Nội) làm việc trong một công ty xây dựng, mức lương 300.000 đồng/ngày/8 giờ. Công ty chia thành 2 ca làm việc trong ngày, ca ngày làm từ 7 giờ đến 11 giờ và 14 giờ đến 18 giờ; ca đêm làm từ 20 giờ đến 4 giờ sáng ngày hôm sau.
+
+Trên thực tế bà Thêu làm việc ca đêm với thời gian từ 20 giờ đến 8 giờ sáng ngày hôm sau (có ngày được nghỉ giữa ca từ 0 giờ đến 1 giờ và có ngày không được nghỉ giữa ca).
+Công ty tính lương ca đêm cho bà Thêu như sau:
+- Thời gian làm ca đêm từ 20 giờ đến 4 giờ sáng ngày hôm sau, công ty tính trả lương hệ số 1,0. Cụ thể: 300.000 đồng x 1,0 = 300.000 đồng.
+- Thời gian làm thêm giờ từ 4 giờ đến 8 giờ sáng ngày hôm sau được tính là làm thêm giờ của ca ngày và nhân hệ số 1,5. Cụ thể: 300.000 đồng: 8 giờ x 4 giờ x 1,5 = 25.000 đồng).
+Bà Thêu hỏi, công ty tính tiền lương làm ca đêm và tiền lương làm thêm giờ của bà như vậy là đúng hay sai? Nếu sai thì cách tính đúng là như thế nào?
+_Luật sư Trần Văn Toàn, Văn phòng luật sư Khánh Hưng - Đoàn luật sư Hà Nội trả lời bà Phạm Thị Thêu như sau:___
+Theo quy định tại Điều 104 [Bộ luật Lao động](http://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163542), thời giờ làm việc bình thường không quá 8 giờ trong 1 ngày và 48 giờ trong 1 tuần. Người sử dụng lao động có quyền quy định làm việc theo giờ hoặc ngày hoặc tuần; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 1 ngày, nhưng không quá 48 giờ trong 1 tuần.
+Điều 105 Bộ luật này quy định, giờ làm việc ban đêm được tính từ 22 giờ đến 6 giờ sáng ngày hôm sau.
+Khoản 2, Điều 106 Bộ luật Lao động quy định, người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đủ các điều kiện sau:
+Được sự đồng ý của người lao động; bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 1 ngày, trường hợp áp dụng quy định làm việc theo tuần thì tổng số giờ làm việc bình thường và số giờ làm thêm không quá 12 giờ trong 1 ngày; không quá 30 giờ trong 1 tháng và tổng số không quá 200 giờ trong 1 năm, trừ một số trường hợp đặc biệt do Chính phủ quy định thì được làm thêm giờ không quá 300 giờ trong 1 năm.
+Theo Điều 108 Bộ luật Lao động, người lao động làm việc liên tục 8 giờ hoặc 6 giờ theo quy định tại Điều 104 của Bộ luật này được nghỉ giữa giờ ít nhất 30 phút, tính vào thời giờ làm việc.
+Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ ít nhất 45 phút, tính vào thời giờ làm việc.
+Điều 97 Bộ luật Lao động quy định, người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như sau:
+Vào ngày thường, ít nhất bằng 150%;
+Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;
+Vào ngày nghỉ lễ, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày.
+Người lao động làm việc vào ban đêm, thì được trả thêm ít nhất bằng 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc của ngày làm việc bình thường.
+Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy định tại Khoản 1 và Khoản 2 Điều này, người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày.
+Trường hợp bà Phạm Thị Thêu phản ánh, công ty chia thành 2 ca làm việc như sau:
+Ca ngày thời gian làm việc buổi sáng từ 7 giờ đến 11 giờ và buổi chiều từ 14 giờ đến 18 giờ. Tổng thời gian làm việc là 8 giờ. Tiền lương áp dụng 300.000 đồng/ngày/8 giờ.
+Ca đêm thời gian làm việc từ 20 giờ đến 4 giờ sáng ngày hôm sau, tiền lương tính hệ số 1,0 bằng 300.000 đồng/ngày/8 giờ.
+Trên thực tế bà Thêu phải làm việc ca đêm từ 20 giờ đến 8 giờ sáng ngày hôm sau. Có ngày được nghỉ giữa ca từ 0 giờ đến 1 giờ và có ngày không được nghỉ giữa ca.
+Công ty tính trả lương ca đêm cho bà Thêu như sau: Thời gian làm ca đêm từ 20 giờ đến 4 giờ, bằng 8 giờ, tiền lương được tính hệ số 1,0 với mức lương 300.000 đồng.
+Thời gian làm thêm giờ từ 4 giờ đến 8 giờ, bằng 8 giờ, được tính là làm thêm giờ của ca ngày và nhân hệ số 1,5. Cụ thể: 4 giờ x 300.000 đồng : 8 giờ x 1,5 = 225.000 đồng.
+Tổng số tiền bà Thêu được công ty trả khi làm việc ca đêm từ 20 giờ đến 8 giờ sáng (tổng thời gian làm việc là 12 giờ, trong đó có 8 giờ ca đêm, 4 giờ làm thêm) là 300.000 đồng 225.000 đồng = 525.000 đồng.
+Theo luật sư, việc công ty tính trả tiền lương làm ca đêm và tiền lương làm thêm giờ trước và sau ca đêm cho bà Thêu là chưa đúng quy định của Bộ luật Lao động. Cụ thể:
+Căn cứ quy định tại Điều 105 Bộ luật Lao động, giờ làm việc ban đêm được tính từ 22 giờ đến 6 giờ sáng ngày hôm sau. Việc tính trả lương đối với thời gian làm việc từ 20 giờ đến 8 giờ sáng ngày hôm sau của bà Thêu, được chia thành 3 thời điểm như sau:
+- Từ 20 giờ đến 22 giờ là thời gian làm thêm giờ trước khi vào ca đêm. Tiền lương làm thêm giờ áp dụng Điểm a, Khoản 1, Điều 97 Bộ luật Lao động, như sau: (300.000 đồng : 8 giờ) x 2 giờ x 150% = 112.500 đồng.
+- Từ 22 giờ đến 6 giờ sáng hôm sau là thời gian làm việc ca đêm. Tiền lương làm việc ca đêm, áp dụng Khoản 2 Điều 97 Bộ luật Lao động: 300.000 đồng (300.000 đồng x 30% )= 390.000 đồng.
+- Từ 6 giờ sáng đến 8 giờ sáng ngày hôm sau, là thời gian làm thêm giờ sau khi làm xong ca đêm. Tiền lương tính thêm giờ áp dụng Điểm a, Khoản 1, Điều 97 Bộ luật Lao động, như sau: (300.000 đồng : 8 giờ) x 2 giờ x 150% = 112.500 đồng.
+Nếu tính đúng quy định tại Điều 97 Bộ luật Lao động thì, tổng cộng tiền lương trả cho thời gian bà Thêu làm việc vào ngày thường, từ 20 giờ đến 8 giờ sáng ngày hôm sau là: 112.500 đồng 390.000 đồng 112.500 đồng = 615.000 đồng, cao hơn 90.000 đồng so với cách tính của Công ty.
+Để bảo đảm quyền và lợi ích hợp pháp của mình, tập thể người lao động trong công ty thông qua tổ chức công đoàn cơ sở ký kết thoả ước lao động tập thể doanh nghiệp hoặc đề nghị với người sử dụng lao động: Bố trí các ca làm việc phù hợp với đặc thù công việc, nhưng phải bảo đảm thời giờ làm việc bình thường không quá 8 giờ trong 1 ngày, trong đó giờ làm việc ca đêm được tính từ 22 giờ đến 6 giờ sáng ngày hôm sau.
+Bố trí giờ nghỉ giữa ca ít nhất 30 phút, tính vào thời giờ làm việc. Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa ca ít nhất 45 phút, tính vào thời giờ làm việc.
+Khi làm việc vào ban đêm (từ 22 giờ đến 6 giờ sáng ngày hôm sau) phải trả lương làm việc vào ban đêm. Khi cần thiết điều động làm thêm giờ phải trả lương làm thêm giờ theo quy định tại Điều 97 Bộ luật Lao động.
+**_Luật sư Trần Văn Toàn_**
+**VPLS Khánh Hưng, Đoàn luật sư Hà Nội**

@@ -1,0 +1,103 @@
+[
+  {
+    "slug": "bo_luat_lao_dong_2019",
+    "title": "Bộ luật Lao động",
+    "document_number": "45/2019/QH14",
+    "document_type": "Bộ luật",
+    "issuing_body": "Quốc hội",
+    "issued_date": "2019-11-20",
+    "effective_date": "2021-01-01",
+    "gazette_page_url": "https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-45-2019-qh14-30232.htm",
+    "official_page_url": "https://vanban.chinhphu.vn/?docid=198540&pageid=27160",
+    "role_in_corpus": "Văn bản gốc quy định thời giờ làm việc, thời giờ nghỉ ngơi và làm thêm giờ (Điều 98, 105-113) cùng các quy định về hợp đồng lao động.",
+    "date_downloaded": "2026-09-25",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "bo_luat_lao_dong_2019.pdf",
+        "landing_path": "data/landing/legal/bo_luat_lao_dong_2019.pdf",
+        "file_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2019/11/30232/29070-1-2019993-99445-2019-qh14.pdf",
+        "bytes": 1352965,
+        "sha256": "3c865f3d92ba23604e316360b902297ddbc0d1c394d3c08a466029a9d43b5b6c"
+      }
+    ]
+  },
+  {
+    "slug": "nghi_dinh_145_2020",
+    "title": "Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động",
+    "document_number": "145/2020/NĐ-CP",
+    "document_type": "Nghị định",
+    "issuing_body": "Chính phủ",
+    "issued_date": "2020-12-14",
+    "effective_date": "2021-02-01",
+    "gazette_page_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-145-2020-nd-cp-32732.htm",
+    "official_page_url": "https://chinhphu.vn/default.aspx?docid=201967&pageid=27160",
+    "role_in_corpus": "Hướng dẫn chi tiết cách tính tiền lương làm thêm giờ, làm việc ban đêm và thời giờ được tính vào giờ làm việc có hưởng lương.",
+    "note": "Cơ sở dữ liệu quốc gia ghi nhận văn bản đã được sửa đổi, bổ sung một phần. Giữ nguyên bản Công báo kèm ngày tải để có thể truy vết phiên bản đã dùng.",
+    "date_downloaded": "2026-09-25",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "nghi_dinh_145_2020_phan_1.pdf",
+        "landing_path": "data/landing/legal/nghi_dinh_145_2020_phan_1.pdf",
+        "file_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2020/12/32732/33806-1-20201203-1204145-2020-nd-cp.pdf",
+        "bytes": 1256507,
+        "sha256": "3131bee5778b06390f4f62fcffb751fdd78bf14f1a834ae17e0f9c1f319ca65a"
+      },
+      {
+        "part": 2,
+        "filename": "nghi_dinh_145_2020_phan_2.pdf",
+        "landing_path": "data/landing/legal/nghi_dinh_145_2020_phan_2.pdf",
+        "file_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2020/12/32732/33809-1-20201205-1206145-2020-nd-cp.pdf",
+        "bytes": 2743013,
+        "sha256": "38de13854df47d0e27ee497b86272f874742cea7e68f1be26d81587ff95f170b"
+      }
+    ]
+  },
+  {
+    "slug": "nghi_dinh_12_2022",
+    "title": "Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+    "document_number": "12/2022/NĐ-CP",
+    "document_type": "Nghị định",
+    "issuing_body": "Chính phủ",
+    "issued_date": "2022-01-17",
+    "effective_date": "2022-01-17",
+    "gazette_page_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-12-2022-nd-cp-36716.htm",
+    "official_page_url": "https://vanban.chinhphu.vn/?classid=1&docid=205182&pageid=27160",
+    "role_in_corpus": "Bổ sung góc nhìn xử phạt khi vi phạm quy định về thời giờ làm việc, thời giờ nghỉ ngơi và hợp đồng lao động.",
+    "date_downloaded": "2026-09-25",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "nghi_dinh_12_2022.pdf",
+        "landing_path": "data/landing/legal/nghi_dinh_12_2022.pdf",
+        "file_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2022/1/36716/39686-1-2022199-20012-2022-nd-cp.pdf",
+        "bytes": 1153557,
+        "sha256": "eb67613dfc009e3450f7055349d04ece229b4f3284191cb85787ed72aa979207"
+      }
+    ]
+  },
+  {
+    "slug": "nghi_quyet_17_2022",
+    "title": "Nghị quyết về số giờ làm thêm trong 01 năm, trong 01 tháng của người lao động trong bối cảnh phòng, chống dịch COVID-19 và phục hồi, phát triển kinh tế - xã hội",
+    "document_number": "17/2022/UBTVQH15",
+    "document_type": "Nghị quyết",
+    "issuing_body": "Ủy ban Thường vụ Quốc hội",
+    "issued_date": "2022-03-23",
+    "effective_date": "2022-04-01",
+    "gazette_page_url": "https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-17-2022-ubtvqh15-36956.htm",
+    "official_page_url": "https://congbao.chinhphu.vn/noi-dung-van-ban-so-17-2022-ubtvqh15-36956?cbid=40162",
+    "role_in_corpus": "Nâng trần số giờ làm thêm (tối đa 60 giờ/tháng, 300 giờ/năm) so với Điều 107 Bộ luật Lao động — nguồn đối chiếu cho câu hỏi về giới hạn làm thêm giờ.",
+    "date_downloaded": "2026-09-25",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "nghi_quyet_17_2022.pdf",
+        "landing_path": "data/landing/legal/nghi_quyet_17_2022.pdf",
+        "file_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2022/3/36956/40162-1-2022287-28817-2022-ubtvqh15.pdf",
+        "bytes": 325504,
+        "sha256": "b18a52a3f098ff1ea7567ab5bae0be60d42dd562f4388296f0e5f2ce317dd9b5"
+      }
+    ]
+  }
+]
