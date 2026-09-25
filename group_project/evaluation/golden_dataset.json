@@ -1,0 +1,222 @@
+[
+  {
+    "id": "q01",
+    "question": "Người lao động làm việc trong điều kiện bình thường được làm việc tối đa bao nhiêu giờ trong 01 ngày và trong 01 tuần?",
+    "expected_answer": "Tối đa 08 giờ trong 01 ngày và 48 giờ trong 01 tuần, theo khoản 1 Điều 105 Bộ luật Lao động 2019.",
+    "expected_context": "1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 105 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "semantic_paraphrase"
+  },
+  {
+    "id": "q02",
+    "question": "Nếu doanh nghiệp quy định thời giờ làm việc theo tuần thì mỗi ngày được làm tối đa bao nhiêu giờ?",
+    "expected_answer": "Không quá 10 giờ trong 01 ngày và vẫn không quá 48 giờ trong 01 tuần (khoản 2 Điều 105 Bộ luật Lao động 2019). Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ.",
+    "expected_context": "2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.\n\nNhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 105 khoản 2",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "semantic_paraphrase"
+  },
+  {
+    "id": "q03",
+    "question": "Giờ làm việc ban đêm được tính từ mấy giờ đến mấy giờ?",
+    "expected_answer": "Từ 22 giờ đến 06 giờ sáng ngày hôm sau, theo Điều 106 Bộ luật Lao động 2019.",
+    "expected_context": "#### Điều 106. Giờ làm việc ban đêm\n\nGiờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 106",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q04",
+    "question": "Người sử dụng lao động phải đáp ứng những điều kiện nào để được huy động người lao động làm thêm giờ?",
+    "expected_answer": "Phải được sự đồng ý của người lao động; số giờ làm thêm không quá 50% số giờ làm việc bình thường trong 01 ngày (nếu tính theo tuần thì tổng số giờ làm việc bình thường và làm thêm không quá 12 giờ/ngày, không quá 40 giờ/tháng); và không quá 200 giờ trong 01 năm, trừ trường hợp tại khoản 3 Điều 107.",
+    "expected_context": "2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu sau đây:\n\na) Phải được sự đồng ý của người lao động;\n\nb) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; trường hợp áp dụng quy định thời giờ làm việc bình thường theo tuần thì tổng số giờ làm việc bình thường và số giờ làm thêm không quá 12 giờ trong 01 ngày; không quá 40 giờ trong 01 tháng;\n\nc) Bảo đảm số giờ làm thêm của người lao động không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.",
+    "question_type": "multi_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 107 khoản 2",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q05",
+    "question": "Những ngành nghề nào được làm thêm tới 300 giờ trong 01 năm?",
+    "expected_answer": "Gồm dệt may, da giày, điện, điện tử, chế biến nông - lâm - diêm nghiệp, thủy sản; sản xuất, cung cấp điện, viễn thông, lọc dầu, cấp thoát nước; công việc đòi hỏi trình độ chuyên môn kỹ thuật cao mà thị trường lao động không cung ứng kịp; công việc cấp bách không thể trì hoãn; và trường hợp khác do Chính phủ quy định (khoản 3 Điều 107 Bộ luật Lao động 2019).",
+    "expected_context": "3. Người sử dụng lao động được sử dụng người lao động làm thêm không quá 300 giờ trong 01 năm trong một số ngành, nghề, công việc hoặc trường hợp sau đây:\n\na) Sản xuất, gia công xuất khẩu sản phẩm hàng dệt, may, da, giày, điện, điện tử, chế biến nông, lâm, diêm nghiệp, thủy sản;\n\nb) Sản xuất, cung cấp điện, viễn thông, lọc dầu; cấp, thoát nước;\n\nc) Trường hợp giải quyết công việc đòi hỏi lao động có trình độ chuyên môn, kỹ thuật cao mà thị trường lao động không cung ứng đầy đủ, kịp thời;\n\nd) Trường hợp phải giải quyết công việc cấp bách, không thể trì hoãn do tính chất thời vụ, thời điểm của nguyên liệu, sản phẩm hoặc để giải quyết công việc phát sinh do yếu tố khách quan không dự liệu trước, do hậu quả thời tiết, thiên tai, hỏa hoạn, địch họa, thiếu điện, thiếu nguyên liệu, sự cố kỹ thuật của dây chuyền sản xuất;\n\nđ) Trường hợp khác do Chính phủ quy định.",
+    "question_type": "multi_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 107 khoản 3",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q06",
+    "question": "Làm thêm giờ vào ngày thường, ngày nghỉ hằng tuần và ngày lễ tết được trả ít nhất bao nhiêu phần trăm?",
+    "expected_answer": "Ít nhất 150% vào ngày thường, 200% vào ngày nghỉ hằng tuần và 300% vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương (chưa kể tiền lương ngày lễ, tết đối với người hưởng lương ngày), theo khoản 1 Điều 98 Bộ luật Lao động 2019.",
+    "expected_context": "1. Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc đang làm như sau:\n\na) Vào ngày thường, ít nhất bằng 150%;\n\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\n\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 98 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q07",
+    "question": "Người lao động làm việc vào ban đêm được trả thêm ít nhất bao nhiêu phần trăm?",
+    "expected_answer": "Được trả thêm ít nhất 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của ngày làm việc bình thường (khoản 2 Điều 98 Bộ luật Lao động 2019).",
+    "expected_context": "2. Người lao động làm việc vào ban đêm thì được trả thêm ít nhất bằng 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của ngày làm việc bình thường.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 98 khoản 2",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q08",
+    "question": "Làm thêm giờ vào ban đêm thì ngoài lương làm thêm và phụ cấp ca đêm còn được trả thêm bao nhiêu?",
+    "expected_answer": "Được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày của ngày làm việc bình thường, ngày nghỉ hằng tuần hoặc ngày nghỉ lễ, tết (khoản 3 Điều 98 Bộ luật Lao động 2019).",
+    "expected_context": "3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy định tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày nghỉ lễ, tết.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 98 khoản 3",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q09",
+    "question": "Người lao động làm việc từ 06 giờ trở lên trong một ngày được nghỉ giữa giờ bao lâu?",
+    "expected_answer": "Ít nhất 30 phút liên tục; nếu làm việc ban đêm thì ít nhất 45 phút liên tục. Trường hợp làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc (Điều 109 Bộ luật Lao động 2019).",
+    "expected_context": "#### Điều 109. Nghỉ trong giờ làm việc\n\n1. Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục.\n\nTrường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 109 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q10",
+    "question": "Người lao động làm việc theo ca phải được nghỉ bao lâu trước khi chuyển sang ca làm việc khác?",
+    "expected_answer": "Ít nhất 12 giờ trước khi chuyển sang ca làm việc khác, theo Điều 110 Bộ luật Lao động 2019.",
+    "expected_context": "#### Điều 110. Nghỉ chuyển ca\n\nNgười lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 110",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q11",
+    "question": "Người lao động được nghỉ hằng tuần tối thiểu như thế nào?",
+    "expected_answer": "Mỗi tuần được nghỉ ít nhất 24 giờ liên tục. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì phải bảo đảm bình quân 01 tháng ít nhất 04 ngày nghỉ (khoản 1 Điều 111 Bộ luật Lao động 2019).",
+    "expected_context": "#### Điều 111. Nghỉ hằng tuần\n\n1. Mỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 111 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "semantic_paraphrase"
+  },
+  {
+    "id": "q12",
+    "question": "Người lao động được nghỉ hưởng nguyên lương bao nhiêu ngày lễ, tết trong năm?",
+    "expected_answer": "Tổng cộng 11 ngày: Tết Dương lịch 01 ngày, Tết Âm lịch 05 ngày, Ngày Chiến thắng 30/4 01 ngày, Quốc tế lao động 01/5 01 ngày, Quốc khánh 02 ngày và Giỗ Tổ Hùng Vương 01 ngày (khoản 1 Điều 112 Bộ luật Lao động 2019).",
+    "expected_context": "#### Điều 112. Nghỉ lễ, tết\n\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:\n\na) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);\n\nb) Tết Âm lịch: 05 ngày;\n\nc) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);\n\nd) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);\n\nđ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);\n\ne) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).",
+    "question_type": "multi_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 112 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q13",
+    "question": "Người lao động làm đủ 12 tháng trong điều kiện bình thường được nghỉ phép năm bao nhiêu ngày?",
+    "expected_answer": "12 ngày làm việc. Người chưa thành niên, người khuyết tật, người làm nghề nặng nhọc, độc hại, nguy hiểm được 14 ngày; người làm nghề đặc biệt nặng nhọc, độc hại, nguy hiểm được 16 ngày (khoản 1 Điều 113 Bộ luật Lao động 2019).",
+    "expected_context": "#### Điều 113. Nghỉ hằng năm\n\n1. Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau:\n\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\n\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\n\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 113 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q14",
+    "question": "Số ngày nghỉ hằng năm được tăng thêm theo thâm niên như thế nào?",
+    "expected_answer": "Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm được tăng thêm tương ứng 01 ngày (Điều 114 Bộ luật Lao động 2019).",
+    "expected_context": "#### Điều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\n\nCứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được tăng thêm tương ứng 01 ngày.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 114",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q15",
+    "question": "Hợp đồng lao động có những loại chính nào?",
+    "expected_answer": "Hai loại: hợp đồng lao động không xác định thời hạn (không xác định thời điểm chấm dứt) và hợp đồng lao động xác định thời hạn (không quá 36 tháng kể từ thời điểm có hiệu lực), theo khoản 1 Điều 20 Bộ luật Lao động 2019.",
+    "expected_context": "#### Điều 20. Loại hợp đồng lao động\n\n1. Hợp đồng lao động phải được giao kết theo một trong các loại sau đây:\n\na) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng;\n\nb) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.",
+    "question_type": "single_fact",
+    "source_document": "Bộ luật Lao động 45/2019/QH14",
+    "source_article": "Điều 20 khoản 1",
+    "source_file": "data/standardized/legal/bo_luat_lao_dong_2019.md",
+    "retrieval_challenge": "semantic_paraphrase"
+  },
+  {
+    "id": "q16",
+    "question": "Trần số giờ làm thêm trong 01 tháng theo Nghị quyết 17/2022/UBTVQH15 là bao nhiêu?",
+    "expected_answer": "Với người sử dụng lao động được làm thêm tối đa 300 giờ/năm, nếu có nhu cầu và được người lao động đồng ý thì được làm thêm trên 40 giờ nhưng không quá 60 giờ trong 01 tháng (Điều 2 Nghị quyết 17/2022/UBTVQH15).",
+    "expected_context": "#### Điều 2. Số giờ làm thêm trong 01 tháng\n\nTrường hợp người sử dụng lao động được sử dụng người lao động làm thêm tối đa 300 giờ trong 01 năm có nhu cầu và được sự đồng ý của người lao động thì được sử dụng người lao động làm thêm trên 40 giờ nhưng không quá 60 giờ trong 01 tháng.",
+    "question_type": "cross_document",
+    "source_document": "Nghị quyết 17/2022/UBTVQH15",
+    "source_article": "Điều 2",
+    "source_file": "data/standardized/legal/nghi_quyet_17_2022.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q17",
+    "question": "Những đối tượng nào không được làm thêm trên 200 giờ đến 300 giờ trong 01 năm?",
+    "expected_answer": "Người lao động từ đủ 15 đến chưa đủ 18 tuổi; người khuyết tật nhẹ suy giảm khả năng lao động từ 51% trở lên, khuyết tật nặng hoặc đặc biệt nặng; người làm nghề nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm; lao động nữ mang thai từ tháng thứ 7 (hoặc tháng thứ 6 nếu làm ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo); lao động nữ đang nuôi con dưới 12 tháng tuổi (khoản 1 Điều 1 Nghị quyết 17/2022/UBTVQH15).",
+    "expected_context": "#### Điều 1. Số giờ làm thêm trong 01 năm\n\n1. Trường hợp người sử dụng lao động có nhu cầu và được sự đồng ý của người lao động thì được sử dụng người lao động làm thêm trên 200 giờ nhưng không quá 300 giờ trong 01 năm, trừ các trường hợp sau đây:\n\na) Người lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi;\n\nb) Người lao động là người khuyết tật nhẹ suy giảm khả năng lao động từ 51% trở lên, khuyết tật nặng hoặc khuyết tật đặc biệt nặng;\n\nc) Người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm;\n\nd) Lao động nữ mang thai từ tháng thứ 7 hoặc từ tháng thứ 6 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo;\n\nđ) Lao động nữ đang nuôi con dưới 12 tháng tuổi.",
+    "question_type": "multi_fact",
+    "source_document": "Nghị quyết 17/2022/UBTVQH15",
+    "source_article": "Điều 1 khoản 1",
+    "source_file": "data/standardized/legal/nghi_quyet_17_2022.md",
+    "retrieval_challenge": "semantic_paraphrase"
+  },
+  {
+    "id": "q18",
+    "question": "Những khoảng thời gian nào được tính vào thời giờ làm việc được hưởng lương?",
+    "expected_answer": "Gồm nghỉ giữa giờ, nghỉ giải lao theo tính chất công việc, nghỉ cần thiết cho nhu cầu sinh lý đã tính trong định mức lao động, thời giờ nghỉ của lao động nữ khi mang thai hoặc nuôi con dưới 12 tháng tuổi và trong thời gian hành kinh, thời giờ ngừng việc không do lỗi người lao động, thời giờ hội họp - học tập - tập huấn theo yêu cầu hoặc được người sử dụng lao động đồng ý (Điều 58 Nghị định 145/2020/NĐ-CP).",
+    "expected_context": "#### Điều 58. Thời giờ được tính vào thời giờ làm việc được hưởng lương\n\n1. Nghỉ giữa giờ quy định khoản 2 Điều 64 Nghị định này.\n\n2. Nghỉ giải lao theo tính chất của công việc.\n\n3. Nghỉ cần thiết trong quá trình lao động đã được tính trong định mức lao động cho nhu cầu sinh lý tự nhiên của con người.\n\n4. Thời giờ nghỉ đối với lao động nữ khi mang thai hoặc nuôi con dưới 12 tháng tuổi, trong thời gian hành kinh theo quy định tại khoản 2 và khoản 4 Điều 137 của Bộ luật Lao động.\n\n5. Thời giờ phải ngừng việc không do lỗi của người lao động.\n\n6. Thời giờ hội họp, học tập, tập huấn do yêu cầu của người sử dụng lao động hoặc được người sử dụng lao động đồng ý.",
+    "question_type": "cross_document",
+    "source_document": "Nghị định 145/2020/NĐ-CP",
+    "source_article": "Điều 58",
+    "source_file": "data/standardized/legal/nghi_dinh_145_2020.md",
+    "retrieval_challenge": "source_confusion"
+  },
+  {
+    "id": "q19",
+    "question": "Doanh nghiệp vi phạm quy định về nghỉ hằng tuần, nghỉ hằng năm hoặc nghỉ lễ, tết bị phạt bao nhiêu tiền?",
+    "expected_answer": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với người sử dụng lao động (khoản 2 Điều 18 Nghị định 12/2022/NĐ-CP).",
+    "expected_context": "2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với người sử dụng lao động có hành vi vi phạm quy định của pháp luật về nghỉ hằng tuần hoặc nghỉ hằng năm hoặc nghỉ lễ, tết.",
+    "question_type": "cross_document",
+    "source_document": "Nghị định 12/2022/NĐ-CP",
+    "source_article": "Điều 18 khoản 2",
+    "source_file": "data/standardized/legal/nghi_dinh_12_2022.md",
+    "retrieval_challenge": "lexical_keyword"
+  },
+  {
+    "id": "q20",
+    "question": "Doanh nghiệp cho làm việc quá số giờ làm việc bình thường hoặc huy động làm thêm giờ mà không được người lao động đồng ý thì bị xử phạt thế nào?",
+    "expected_answer": "Bị phạt tiền từ 20.000.000 đồng đến 25.000.000 đồng, trừ trường hợp làm thêm giờ trong trường hợp đặc biệt theo Điều 108 Bộ luật Lao động (khoản 3 Điều 18 Nghị định 12/2022/NĐ-CP).",
+    "expected_context": "3. Phạt tiền từ 20.000.000 đồng đến 25.000.000 đồng đối với người sử dụng lao động có một trong các hành vi sau đây:\n\na) Thực hiện thời giờ làm việc bình thường quá số giờ làm việc theo quy định của pháp luật;\n\nb) Huy động người lao động làm thêm giờ mà không được sự đồng ý của người lao động, trừ trường hợp theo quy định tại Điều 108 của Bộ luật Lao động.",
+    "question_type": "cross_document",
+    "source_document": "Nghị định 12/2022/NĐ-CP",
+    "source_article": "Điều 18 khoản 3",
+    "source_file": "data/standardized/legal/nghi_dinh_12_2022.md",
+    "retrieval_challenge": "lexical_keyword"
+  }
+]
