@@ -171,6 +171,6 @@ Không commit: `.env`, `chroma_db/`, `data/pageindex/`, cache (`__pycache__/`,
 - [Module contracts](docs/MODULE_CONTRACTS.md) — schema, interface và invariant.
 - [Step-by-step guide](docs/STEP_BY_STEP.md) — thứ tự triển khai từng bước.
 - [Grading rubric](docs/GRADING_RUBRIC.md) — thang điểm.
-- [Template báo cáo cá nhân](reports/INDIVIDUAL_REPORT.md) — mỗi thành viên copy
-  thành `reports/K4-L3B-<MSSV>-<Tên>.md`.
+- [Thành viên nhóm](TEAMMATES.md) — phân công và link tới báo cáo cá nhân
+  (`reports/K4-L3B-<MSSV>-<Tên>.md`) của từng người.
 - [Suggested topics](docs/SUGGESTED_TOPICS.md) — danh sách chủ đề tham khảo.
