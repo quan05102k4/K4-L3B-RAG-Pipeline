@@ -75,24 +75,22 @@ def load_documents() -> list[dict]:
 
 def chunk_documents(documents: list[dict]) -> list[dict]:
     """Chia Document thành chunks có id và chunk_index."""
-    # TODO: Chunk bằng RecursiveCharacterTextSplitter.
-    #
-    # from langchain_text_splitters import RecursiveCharacterTextSplitter
-    # splitter = RecursiveCharacterTextSplitter(
-    #     chunk_size=CHUNK_SIZE,
-    #     chunk_overlap=CHUNK_OVERLAP,
-    #     separators=["\n\n", "\n", ". ", " ", ""],
-    # )
-    # chunks = []
-    # for document in documents:
-    #     for index, text in enumerate(splitter.split_text(document["content"])):
-    #         chunks.append({
-    #             "id": f"{document['id']}::chunk-{index}",
-    #             "content": text,
-    #             "metadata": {**document["metadata"], "chunk_index": index},
-    #         })
-    # return chunks
-    raise NotImplementedError("Implement chunk_documents")
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
+        separators=["\n\n", "\n", ". ", " ", ""],
+    )
+    chunks = []
+    for document in documents:
+        for index, text in enumerate(splitter.split_text(document["content"])):
+            chunks.append({
+                "id": f"{document['id']}::chunk-{index}",
+                "content": text,
+                "metadata": {**document["metadata"], "chunk_index": index},
+            })
+    return chunks
 
 
 def embed_chunks(chunks: list[dict]) -> list[dict]:
